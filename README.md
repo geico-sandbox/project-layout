@@ -1,6 +1,6 @@
 # Standard Go Project Layout
 
-This is a test
+This is a test again
 
 Translations:
 
