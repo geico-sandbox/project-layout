@@ -1,5 +1,7 @@
 # Standard Go Project Layout
 
+Another test 4 with gobbledygook.
+
 Translations:
 
 * [한국어 문서](README_ko.md)
